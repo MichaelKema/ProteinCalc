@@ -24,8 +24,8 @@
     "targets": "all",
     "icon": [
       "icons/fish-cooked.png",
-      "icons/fish-cooked-128.svg",
-      "icons/fish-cooked-128.svg"
+      "icons/fish-cooked-128.png",
+      "icons/fish-cooked-256.png"
       ]
   }
 }
